@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<br />
+<
 <div align="center">
 
 <h3 align="center">Enzo Rodriguez Personal Website</h3>
